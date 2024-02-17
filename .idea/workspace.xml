@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32c6dbf3-b774-4206-8471-f7b4ccc1a4ca" name="Changes" comment="Learning scala day3">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo1.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo1.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708187653388</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Learning scala day3">
+      <created>1708189753208</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708189753208</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
