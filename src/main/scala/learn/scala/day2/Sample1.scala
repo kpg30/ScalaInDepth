@@ -1,4 +1,4 @@
-package com.test.learn.scala.day2
+package learn.scala.day2
 
 object Sample1 {
   def main(args: Array[String]): Unit = {

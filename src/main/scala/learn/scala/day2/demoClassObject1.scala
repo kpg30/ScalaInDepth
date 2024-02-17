@@ -1,4 +1,4 @@
-package com.test.learn.scala.day2
+package learn.scala.day2
 
 class Mobile1 {
   var model = "14-promax"
