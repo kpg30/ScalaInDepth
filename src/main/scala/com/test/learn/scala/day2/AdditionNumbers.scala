@@ -1,4 +1,4 @@
-package com.test.learn.scala
+package com.test.learn.scala.day2
 
 object AdditionNumbers {
   def addTwoNumbers(a: Int, b: Int): Int = { //* not mandatory to specify the return type. type infer

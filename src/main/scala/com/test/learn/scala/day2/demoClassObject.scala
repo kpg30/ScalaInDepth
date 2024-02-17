@@ -1,4 +1,4 @@
-package com.test.learn.scala
+package com.test.learn.scala.day2
 
 class Car {
   var cost= 10
