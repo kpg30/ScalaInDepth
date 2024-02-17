@@ -1,4 +1,4 @@
-package learn.scala.day2
+package learn.scala.day1
 
 object HelloWorld {
   def main(args: Array[String]): Unit = {
