@@ -1,5 +1,5 @@
+// example: No parameterized constructor (Primary Constructor)
 package learn.scala.day2
-
 class additionOfNumbers{
   val x = 10
   val y = 20

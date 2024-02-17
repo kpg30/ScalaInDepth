@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32c6dbf3-b774-4206-8471-f7b4ccc1a4ca" name="Changes" comment="Learning scala day3">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo1.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +52,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.constructorDemo">
-    <configuration name="AdditionNumbers" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.learn.scala.AdditionNumbers" />
+  <component name="RunManager" selected="Application.constructorDemo1">
+    <configuration name="constructorDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learn.scala.day2.constructorDemo" />
       <module name="ScalaInDepth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.learn.scala.*" />
+          <option name="PATTERN" value="learn.scala.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="constructorDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="learn.scala.day2.constructorDemo" />
+    <configuration name="constructorDemo1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learn.scala.day2.constructorDemo1" />
       <module name="ScalaInDepth" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.constructorDemo1" />
         <item itemvalue="Application.constructorDemo" />
         <item itemvalue="Application.helloWorldWithoutMain" />
         <item itemvalue="Application.demoClassObject1" />
         <item itemvalue="Application.demoClassObject" />
-        <item itemvalue="Application.AdditionNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708187478233</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Learning scala day3">
+      <created>1708187653388</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708187653388</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
