@@ -1,24 +1,24 @@
-// example: No parameterized constructor (Primary Constructor)
+// Program no 2: No parameterized constructor (Primary Constructor)
 package learn.scala.day2
-class additionOfNumbers{
+class demoClass{
   val x = 10
   val y = 20
 
   def addNumber() ={
     x + y
   }
-  println(s"x = ${x} and y = ${y}")
+  println(s"x = $x and y = $y")
   // println("x = " + x + " and y = " + y)
 
   val z = addNumber()
-  println(s"z = ${z}")
+  println(s"z = $z")
   // println("z = " + z)
 }
 object constructorDemo {
   def main(args: Array[String]): Unit = {
     println("scala constructors example")
 
-    val d1 = new additionOfNumbers
+    val d1 = new demoClass
 
   }
 

@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32c6dbf3-b774-4206-8471-f7b4ccc1a4ca" name="Changes" comment="Learning scala day3">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo3.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day2/constructorDemo1.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +18,8 @@
   </component>
   <component name="ChangesViewManager">
     <option name="groupingKeys">
-      <option value="module" />
       <option value="directory" />
+      <option value="module" />
     </option>
   </component>
   <component name="CodeStyleSettingsInfer">
@@ -44,14 +47,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Scala"
   }
-}</component>
-  <component name="RunManager" selected="Application.constructorDemo1">
+}]]></component>
+  <component name="RunManager" selected="Application.constructorDemo">
     <configuration name="constructorDemo" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="learn.scala.day2.constructorDemo" />
       <module name="ScalaInDepth" />
@@ -78,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demoClassObject" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.learn.scala.demoClassObject" />
+    <configuration name="constructorDemo2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learn.scala.day2.constructorDemo2" />
       <module name="ScalaInDepth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.learn.scala.*" />
+          <option name="PATTERN" value="learn.scala.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demoClassObject1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.learn.scala.demoClassObject1" />
+    <configuration name="constructorDemo3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learn.scala.day2.constructorDemo3" />
       <module name="ScalaInDepth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.learn.scala.*" />
+          <option name="PATTERN" value="learn.scala.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.constructorDemo1" />
         <item itemvalue="Application.constructorDemo" />
+        <item itemvalue="Application.constructorDemo3" />
+        <item itemvalue="Application.constructorDemo2" />
+        <item itemvalue="Application.constructorDemo1" />
         <item itemvalue="Application.helloWorldWithoutMain" />
-        <item itemvalue="Application.demoClassObject1" />
-        <item itemvalue="Application.demoClassObject" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708189753208</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Learning scala day3">
+      <created>1708191860030</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708191860030</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,5 +255,9 @@
     <MESSAGE value="Learning scala day2" />
     <MESSAGE value="Learning scala day3" />
     <option name="LAST_COMMIT_MESSAGE" value="Learning scala day3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
