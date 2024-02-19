@@ -1,6 +1,5 @@
 // scala constructor : with Default parameters (primary constructor)
 package learn.scala.day2
-
 class demoClass2(val a: Int = 10, val b:Double = 10.5, val c:String="prasad"){
   val x = a
   val y = b
