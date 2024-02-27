@@ -1,5 +1,5 @@
+// Scala Program: Companion Object/ Class example
 package learn.scala.day3
-
 class CompanionDemo{
   var x = 50
   def getVale() {

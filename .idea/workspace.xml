@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32c6dbf3-b774-4206-8471-f7b4ccc1a4ca" name="Changes" comment="Learning scala day3">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CarDetails.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CaseClassDemoA.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CompanionDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/example2.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CaseClassDemoA.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CaseClassDemoA.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CompanionDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CompanionDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/singletonDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/singletonDemo.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708332692917</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Learning scala day3">
+      <created>1709014295967</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709014295967</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

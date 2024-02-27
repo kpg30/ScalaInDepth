@@ -1,5 +1,5 @@
+// Scala Program: Singleton Object example
 package learn.scala.day3
-
 class demoClassA{
   val x = 5
   val y = 5.5
