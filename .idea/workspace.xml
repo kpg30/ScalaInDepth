@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32c6dbf3-b774-4206-8471-f7b4ccc1a4ca" name="Changes" comment="Learning scala day3">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day4/StringDemoA.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CarDetails.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CarDetails.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CaseClassDemoA.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CaseClassDemoA.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CompanionDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CompanionDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/singletonDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/singletonDemo.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +54,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.toDoOptions&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CaseClassDemoA">
-    <configuration name="AreaOfRectangle" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="learn.scala.day3.AreaOfRectangle" />
-      <module name="ScalaInDepth" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learn.scala.day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringDemoA">
     <configuration name="CarDetails" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="learn.scala.day3.CarDetails" />
       <module name="ScalaInDepth" />
@@ -107,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringDemoA" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learn.scala.day4.StringDemoA" />
+      <module name="ScalaInDepth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.scala.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="example2" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="learn.scala.day3.example2" />
       <module name="ScalaInDepth" />
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringDemoA" />
         <item itemvalue="Application.CaseClassDemoA" />
         <item itemvalue="Application.CarDetails" />
         <item itemvalue="Application.CompanionDemo" />
         <item itemvalue="Application.example2" />
-        <item itemvalue="Application.AreaOfRectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709014295967</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Learning scala day3">
+      <created>1709025868779</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709025868779</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

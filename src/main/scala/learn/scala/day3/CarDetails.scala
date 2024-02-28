@@ -9,7 +9,6 @@ class Car(name:String, model:String){
   }
 
 }
-
 object CarDetails {
   def main(args: Array[String]): Unit = {
 

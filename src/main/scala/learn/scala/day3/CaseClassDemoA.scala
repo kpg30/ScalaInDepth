@@ -10,7 +10,6 @@ case class CarDemo( name:String, model:String){
   }
 
 }
-
 object CaseClassDemoA {
   def main(args: Array[String]): Unit = {
 
