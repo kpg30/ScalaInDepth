@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32c6dbf3-b774-4206-8471-f7b4ccc1a4ca" name="Changes" comment="Learning scala day3">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day4/StringDemoA.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day5/PatternMatchExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day5/PatternMatchExample1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day5/Price.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day5/RegexExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day5/RegexExample2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day5/patternMatch.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day6/ConditionalStamnts.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day6/DemoForLoop.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day6/DemoWhileLoop.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CarDetails.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CarDetails.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CaseClassDemoA.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day3/CaseClassDemoA.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +34,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,13 +67,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.toDoOptions&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringDemoA">
-    <configuration name="CarDetails" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="learn.scala.day3.CarDetails" />
+  <component name="RunManager" selected="Application.DemoForLoop">
+    <configuration name="ConditionalStamnts" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learn.scala.day6.ConditionalStamnts" />
       <module name="ScalaInDepth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learn.scala.day3.*" />
+          <option name="PATTERN" value="learn.scala.day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CaseClassDemoA" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="learn.scala.day3.CaseClassDemoA" />
+    <configuration name="DemoForLoop" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learn.scala.day6.DemoForLoop" />
       <module name="ScalaInDepth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learn.scala.day3.*" />
+          <option name="PATTERN" value="learn.scala.day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompanionDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="learn.scala.day3.CompanionDemo" />
+    <configuration name="DemoWhileLoop" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learn.scala.day6.DemoWhileLoop" />
       <module name="ScalaInDepth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learn.scala.day3.*" />
+          <option name="PATTERN" value="learn.scala.day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemoA" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="learn.scala.day4.StringDemoA" />
+    <configuration name="RegexExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learn.scala.day5.RegexExample" />
       <module name="ScalaInDepth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learn.scala.day4.*" />
+          <option name="PATTERN" value="learn.scala.day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="learn.scala.day3.example2" />
+    <configuration name="RegexExample2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learn.scala.day5.RegexExample2" />
       <module name="ScalaInDepth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learn.scala.day3.*" />
+          <option name="PATTERN" value="learn.scala.day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringDemoA" />
-        <item itemvalue="Application.CaseClassDemoA" />
-        <item itemvalue="Application.CarDetails" />
-        <item itemvalue="Application.CompanionDemo" />
-        <item itemvalue="Application.example2" />
+        <item itemvalue="Application.DemoForLoop" />
+        <item itemvalue="Application.DemoWhileLoop" />
+        <item itemvalue="Application.ConditionalStamnts" />
+        <item itemvalue="Application.RegexExample" />
+        <item itemvalue="Application.RegexExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709025868779</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Learning scala day3">
+      <created>1709107094756</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709107094756</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
