@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32c6dbf3-b774-4206-8471-f7b4ccc1a4ca" name="Changes" comment="Learning scala day3">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day5/PatternMatchExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day5/PatternMatchExample1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day5/Price.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day5/RegexExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day5/RegexExample2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day5/patternMatch.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day6/ConditionalStamnts.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day6/DemoForLoop.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day6/DemoWhileLoop.scala" afterDir="false" />
+    <list default="true" id="32c6dbf3-b774-4206-8471-f7b4ccc1a4ca" name="Changes" comment="Learning scala day6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/scala/day6/DemoForLoop.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day6/DemoForLoop.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,7 +270,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709107094756</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Learning scala day3">
+      <created>1710055260348</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1710055260348</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Learning scala day6">
+      <created>1710055466795</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1710055466795</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,7 +314,8 @@
     <MESSAGE value="Learning scala day1" />
     <MESSAGE value="Learning scala day2" />
     <MESSAGE value="Learning scala day3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning scala day3" />
+    <MESSAGE value="Learning scala day6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning scala day6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

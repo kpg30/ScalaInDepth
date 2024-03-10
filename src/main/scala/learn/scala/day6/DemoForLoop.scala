@@ -14,12 +14,12 @@ object DemoForLoop {
     } */
 
     println("=========== nested for loop =================")
-/*    for (i <- 1 to 10){
+  /* for (i <- 1 to 10){
       for (j <- 1 to 10){
         println("value of i is " + i + " value of j is " + j)
       }
-    }
-*/
+    } */
+
     for (i <- 1 to 10 ; j <- 1 to 10){
       println("value of i is " + i + " value of j is " + j)
     }
@@ -37,6 +37,10 @@ object DemoForLoop {
     for (i <- numbersList if(i % 2 == 0)) {
       println("Display number from List is " + i)
     }
+
+    println("=========== for Loop For Collections with filter and Yield =================")
+    var listNumbers = for (i <- numbersList if(i % 2 == 0)) yield i
+    println(listNumbers)
 
 
   }
