@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32c6dbf3-b774-4206-8471-f7b4ccc1a4ca" name="Changes" comment="Learning scala day9">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day9/ArrayExample2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/scala/day9/ArrayExample3.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="32c6dbf3-b774-4206-8471-f7b4ccc1a4ca" name="Changes" comment="Learning scala day9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -306,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710481934737</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Learning scala day9">
+      <created>1710570991670</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1710570991670</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
